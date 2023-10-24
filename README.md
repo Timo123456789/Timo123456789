@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timo123456789&label=Profile%20views&color=0e75b6&style=flat" alt="timo123456789" /> </p>
 
-- 🔭 I’m currently working on my **bachelor thesis.**
+- 🔭 I’m currently doing my Master in 'Geoinformatics and Spatial Data Science'**
 
-- 🌱 I’m currently learning about **Machine Learning, YOLO and Discrete Curve Evolution.**
+- 🌱 I’m currently learning about **Machine Learning and Webprograming.**
 
 - ⚡ Fun fact **I am and will always be a bookworm.**
 

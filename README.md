@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timo Lietmeyer</h1>
-<h3 align="center">A student of geoinformatics (B. Sc.) at Westfälische Wilhelms University</h3>
+<h3 align="center">A student of geoinformatics (M. Sc.) at University of Muenster</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timo123456789&label=Profile%20views&color=0e75b6&style=flat" alt="timo123456789" /> </p>
 
